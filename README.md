@@ -1,4 +1,5 @@
 Summary:
+
 The dataset contains information about Spotify songs and user listening behavior. It includes details such as song name, artist, duration, popularity, and whether the song was skipped or played fully. The data helps in understanding user preferences and listening patterns.
 
 Skip Rate Analysis:
